@@ -9,7 +9,7 @@ Join our [Discord](https://dsc.gg/arctic) for more information
 Some antivirus software flag this file as a **dangerous DLL** (Dynamic-Link Library). Therefore, we've published it on [GitHub](https://github.com/ArcticFN/Zefron). You can also build it yourself using Visual Studio 2022.
 
 ## Building
-Instead of Debug select **Release** as Configuration then select **Build -> Build Solution**
+Instead of Debug select **Release** as Configuration then select **Build -> Build Solution**<br>
 ![Configuration Manager](https://i.imgur.com/WN29qyI.png)
 
 # Credits
