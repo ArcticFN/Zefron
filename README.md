@@ -9,7 +9,7 @@ Some antivirus software flag this file as a **dangerous DLL**. To address this, 
 
 ## Building Instructions
 1. Select **Release** as the Configuration.
-2. Go to **Build -> Build Solution**.
+2. Go to **Build -> Build Solution**.\n
 ![Configuration Manager](https://i.imgur.com/WN29qyI.png)
 
 ## Credits
